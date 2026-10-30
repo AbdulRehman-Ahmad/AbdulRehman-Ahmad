@@ -140,7 +140,7 @@ Organized in collaboration with Cloud Native Security Pakistan.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRehman-Ahmad&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Ahmad&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbdulRehman-Ahmad&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
