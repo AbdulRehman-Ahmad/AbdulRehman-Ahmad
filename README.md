@@ -34,11 +34,21 @@ I care about designing software that solves a specific problem, has understandab
 ## 🏆 Hacktoberfest 2026 — Award-Winning Project
 
 **Winner — Best Open-Source AI Project** · Hacktoberfest Hack Day Lahore · 24 October 2026  
-In collaboration with Cloud Native Security Pakistan.
+Organized in collaboration with Cloud Native Security Pakistan.  
+**Certificate of Achievement:** Awarded to Abdul Rehman Ahmad for the winning project, *BayyanAI*.
 
 <p align="center">
   <img src="assets/hacktoberfest-winner.jfif" alt="BayanAI — Best Open-Source AI Project winner at Hacktoberfest Hack Day Lahore 2026" width="500" />
 </p>
+
+<details>
+<summary>📜 View my Hacktoberfest 2026 Certificate of Achievement</summary>
+
+<p align="center">
+  <img src="assets/hacktoberfest-certificate.png" alt="Hacktoberfest 2026 Certificate of Achievement — Abdul Rehman Ahmad, Best Open-Source AI Project" width="720" />
+</p>
+
+</details>
 
 ### BayanAI — Speak Your Khata
 
@@ -106,6 +116,12 @@ In collaboration with Cloud Native Security Pakistan.
 - **Amal Academy — Career-Prep Fellowship (2026):** Completed a fellowship involving professional development, teamwork, and a community teaching initiative.
 - **Alkhidmat Foundation — Summer Internship (2026):** Supported volunteer and community initiatives, including work with children at a Child Protection Center.
 - **McKinsey & Company — Forward Program (2026):** Completed the program covering problem-solving, communication, adaptability, and digital skills.
+
+---
+
+## 📜 Certifications & Recognition
+
+- 🏆 **Hacktoberfest 2026 — Certificate of Achievement:** Best Open-Source AI Project for *BayyanAI*, Hack Day Lahore × Cloud Native Security Pakistan (24 October 2026). [View certificate](assets/hacktoberfest-certificate.png).
 
 ---
 
