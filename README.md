@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdul Rehman Ahmad 👋
 
-### Software Engineer | Full-Stack & Backend Development | C# · .NET · React · Node.js
+### Software Engineer | ASP.NET Core · AI Engineering · Full-Stack Development
 
 **Building dependable backend systems, AI-powered applications, and useful open-source software.**
 
