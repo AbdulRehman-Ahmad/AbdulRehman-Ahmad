@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Abdul Rehman Ahmad 👋
@@ -11,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehmanahmad/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRehman-Ahmad)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrehmanit17@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-2563EB?style=for-the-badge&logo=googlevoice&logoColor=white)](tel:+923295388996)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923295388996)
 
 </div>
 
@@ -68,32 +71,49 @@ Organized in collaboration with Cloud Native Security Pakistan.
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Backend & Full-Stack
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Databases, Cloud & Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### 🤖 AI Engineering & Automation
 
 **Technologies used in projects**
 
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 - **LLMs & inference:** Qwen models, Ollama, local model serving, prompt engineering
 - **Speech AI:** Whisper / faster-whisper, multilingual speech-to-text
 - **Structured AI workflows:** Natural-language understanding, JSON extraction, output validation, human-in-the-loop confirmation
 - **AI automation:** Converting voice or text requests into application actions, integrating AI outputs with APIs and databases
 
-**Related AI engineering technologies and areas of interest**
+**Related AI Engineering Technologies & Interests**
 
 `RAG` · `Embeddings` · `Vector Databases` · `Semantic Search` · `Tool Calling` · `AI Agents` · `LangChain` · `LlamaIndex` · `n8n` · `Make` · `Workflow Orchestration` · `Evaluation & Observability`
-
-*The second line lists relevant ecosystem technologies and areas of interest, not a claim of hands-on production experience with every tool.*
 
 ---
 
@@ -105,8 +125,6 @@ Organized in collaboration with Cloud Native Security Pakistan.
 | **[SchemaGhost](https://github.com/AbdulRehman-Ahmad/SchemaGhost)** | Open-source AI-assisted API schema migration and compatibility adapter generation | C#, .NET, Qwen3 |
 | **[BuilderAI](https://github.com/AbdulRehman-Ahmad/Builder_ai)** | Full-stack website builder with authentication and frontend/backend application components | React, Node.js, Express, MongoDB |
 | **Multi-Vendor E-Commerce** | Buyer and seller workflows, dashboards, authentication, and role-based access | MERN, JWT |
-
-*Additional source links and live demos can be added when available.*
 
 ---
 
@@ -129,7 +147,7 @@ Organized in collaboration with Cloud Native Security Pakistan.
 
 - **BS Computer Science** — Virtual University of Pakistan
 - **Aspire Leaders Program (ALP)** — 2026, Cohort 4 · Aspire Institute (Harvard-founded)
-- **CS50** — Harvard's introductory computer science course *(certificate status not specified)*
+- **CS50: Introduction to Computer Science** — Harvard University
 - **Additional coursework:** MySQL Fundamentals and Version Control (Meta); HTML, CSS, and JavaScript for Web Developers (Duke University)
 
 ---
@@ -140,9 +158,19 @@ Organized in collaboration with Cloud Native Security Pakistan.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRehman-Ahmad&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbdulRehman-Ahmad&layout=compact&theme=github_dark&hide_border=true)
-
 </div>
+
+---
+
+## 📬 Contact Me
+
+I'm open to connecting with developers, collaborating on open-source projects, and discussing software engineering opportunities.
+
+- 📧 **Email:** [abdulrehmanit17@gmail.com](mailto:abdulrehmanit17@gmail.com)
+- 📱 **Phone:** [+92 329 5388996](tel:+923295388996)
+- 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923295388996)
+- 💼 **LinkedIn:** [linkedin.com/in/abdulrehmanahmad](https://www.linkedin.com/in/abdulrehmanahmad)
+- 💻 **GitHub:** [github.com/AbdulRehman-Ahmad](https://github.com/AbdulRehman-Ahmad)
 
 ---
 
