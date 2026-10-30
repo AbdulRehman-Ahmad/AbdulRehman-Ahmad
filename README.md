@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdul Rehman Ahmad 👋
 
-### Software Engineer | ASP.NET Core · AI Engineering · Full-Stack Development
+### Software Engineer · ASP.NET Core & AI Engineering | BS Computer Science
 
 **Building dependable backend systems, AI-powered applications, and useful open-source software.**
 
